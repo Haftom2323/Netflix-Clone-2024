@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netflix-Clone-2024/static/css/main.8ccd9fc0.css",
+    "main.js": "/Netflix-Clone-2024/static/js/main.516c9fa0.js",
+    "index.html": "/Netflix-Clone-2024/index.html",
+    "main.8ccd9fc0.css.map": "/Netflix-Clone-2024/static/css/main.8ccd9fc0.css.map",
+    "main.516c9fa0.js.map": "/Netflix-Clone-2024/static/js/main.516c9fa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ccd9fc0.css",
+    "static/js/main.516c9fa0.js"
+  ]
+}
